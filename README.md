@@ -6,3 +6,6 @@ For this project, we will make a Pokemon app! in this app we will have 3 section
   <li>In Trainers we will be able to create and delete pokemon trainers with name, age, hobby and photo.</li>
   <li>In Teams, we will be able to select a trainer and see their pokemon team and add/remove pokemons to that team. </li>
 </ul>
+
+
+https://github.com/Adrimava/Poke-app/blob/master/misc/diagrams/PokeAppDiagram.jpg
